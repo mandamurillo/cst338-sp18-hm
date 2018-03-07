@@ -1,0 +1,29 @@
+#challenges, nav a:hover {
+                background-color:#3467ba;
+                font-size: 2em;
+                transition: .5s;
+                
+            }
+            #wrapper {
+                
+                width: 900px;
+                margin: 0 auto;  /* this aligns the whole section in the center */
+                background-color:  #5b77a5;
+                
+            }
+            nav a{
+                font-size: 1.8em;
+                color:#1a5060;
+                background-color:#2c9c9e;
+                padding:16px;
+                padding-bottom:0px;
+                border-top-left-radius:20px;
+                border-top-right-radius:20px;
+            }
+            #image
+            {
+                height: 300px;
+                width: 300px;
+                
+            }
+            
