@@ -6,7 +6,7 @@
         <title> Full Statck Development</title>
          
         <style>
-            @import url("/cst336/cst338-sp18-hm/css/main.css");
+            @import url("/assingments/homework1/css/main.css");
         </style>
         
         
@@ -66,3 +66,10 @@
      sources:https://www.sitepoint.com/full-stack-developer/
      
 </footer>   
+    
+    
+    
+    
+    
+    
+</html>
