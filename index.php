@@ -6,7 +6,7 @@
         <title> Full Statck Development</title>
          
         <style>
-            @import url("/cst336/cst338-sp18-hm/main.css");
+            @import url("./main.css");
         </style>
         
         
